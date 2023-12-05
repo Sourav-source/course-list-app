@@ -1,0 +1,253 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "name": "Introduction to Web Development",
+      "instructor": "John Smith",
+      "description": "Learn the basics of web development and build your first website",
+      "enrollmentstatus": "Open",
+      "thumbnail": "https://via.placeholder.com/150",
+      "duration": "8 weeks",
+      "schedule": "Tuesdays and Thursdays, 7:00 PM - 9:00 PM",
+      "location": "Online",
+      "prerequisites": [
+        "Basic HTML and CSS knowledge"
+      ],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to HTML",
+          "content": "Overview of HTML, basic tags, and structuring a web page"
+        },
+        {
+          "week": 2,
+          "topic": "Introduction to CSS",
+          "content": "Overview of CSS, styling elements, and creating layouts"
+        },
+        {
+          "week": 3,
+          "topic": "Responsive Web Design",
+          "content": "Creating responsive websites using media queries and flexbox"
+        },
+        {
+          "week": 4,
+          "topic": "Introduction to JavaScript",
+          "content": "Basic JavaScript concepts and DOM manipulation"
+        },
+        {
+          "week": 5,
+          "topic": "Front-end Frameworks",
+          "content": "Introduction to popular front-end frameworks like React and Vue"
+        },
+        {
+          "week": 6,
+          "topic": "Back-end Development",
+          "content": "Introduction to server-side programming with Node.js and Express"
+        },
+        {
+          "week": 7,
+          "topic": "Databases and SQL",
+          "content": "Working with databases using SQL and basic database management"
+        },
+        {
+          "week": 8,
+          "topic": "Final Project",
+          "content": "Building a complete web application using the concepts learned"
+        }
+      ],
+      "students": [
+        {
+          "id": "c57d3afe-2db7-459d-8f02-97e184176a3f",
+          "name": "Sourav",
+          "email": "sourav911@gmail.com"
+        },
+        {
+          "id": "55324e73-5f39-43af-8ff2-1e02e0ee806a",
+          "name": "Newuser",
+          "email": "newuser@gmail.com"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Data Science Fundamentals",
+      "instructor": "Jane Doe",
+      "description": "Learn the fundamentals of data science and analysis",
+      "enrollmentstatus": "Closed",
+      "thumbnail": "https://via.placeholder.com/150",
+      "duration": "10 weeks",
+      "schedule": "Mondays and Wednesdays, 6:00 PM - 8:00 PM",
+      "location": "Online",
+      "prerequisites": [
+        "Basic Python programming"
+      ],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to Data Science",
+          "content": "Overview of data science, data analysis process, and tools"
+        },
+        {
+          "week": 2,
+          "topic": "Data Wrangling",
+          "content": "Cleaning and preparing data for analysis"
+        },
+        {
+          "week": 3,
+          "topic": "Exploratory Data Analysis",
+          "content": "Visualizing and analyzing data to gain insights"
+        },
+        {
+          "week": 4,
+          "topic": "Statistical Analysis",
+          "content": "Applying statistical techniques to draw conclusions from data"
+        },
+        {
+          "week": 5,
+          "topic": "Machine Learning",
+          "content": "Introduction to machine learning"
+        }
+      ],
+      "students": []
+    },
+    {
+      "id": 3,
+      "name": "Advanced Python Programming",
+      "instructor": "Jane Doe",
+      "description": "Take your Python skills to the next level with advanced concepts and techniques",
+      "enrollmentstatus": "Open",
+      "thumbnail": "https://via.placeholder.com/150",
+      "duration": "6 weeks",
+      "schedule": "Mondays and Wednesdays, 6:00 PM - 8:00 PM",
+      "location": "Online",
+      "prerequisites": [
+        "Intermediate Python knowledge"
+      ],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Object-Oriented Programming",
+          "content": "Introduction to OOP principles and implementation in Python"
+        },
+        {
+          "week": 2,
+          "topic": "Decorators and Generators",
+          "content": "Exploring advanced Python features like decorators and generators"
+        },
+        {
+          "week": 3,
+          "topic": "Concurrency and Parallelism",
+          "content": "Understanding concurrent programming and parallel execution in Python"
+        },
+        {
+          "week": 4,
+          "topic": "Data Structures and Algorithms",
+          "content": "Advanced data structures and algorithm analysis in Python"
+        },
+        {
+          "week": 5,
+          "topic": "Testing and Debugging",
+          "content": "Best practices for testing and debugging Python code"
+        },
+        {
+          "week": 6,
+          "topic": "Final Project",
+          "content": "Building a complex Python application"
+        }
+      ],
+      "students": [
+        {
+          "id": "c57d3afe-2db7-459d-8f02-97e184176a3f",
+          "name": "Sourav",
+          "email": "sourav911@gmail.com"
+        },
+        {
+          "id": "55324e73-5f39-43af-8ff2-1e02e0ee806a",
+          "name": "Newuser",
+          "email": "newuser@gmail.com"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Introduction to Machine Learning",
+      "instructor": "Alex Johnson",
+      "description": "Learn the fundamentals of machine learning and build predictive models",
+      "enrollmentstatus": "Open",
+      "thumbnail": "https://via.placeholder.com/150",
+      "duration": "10 weeks",
+      "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+      "location": "Online",
+      "prerequisites": [
+        "Basic Python programming",
+        "Mathematics background"
+      ],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to Machine Learning",
+          "content": "Overview of machine learning concepts and applications"
+        },
+        {
+          "week": 2,
+          "topic": "Supervised Learning",
+          "content": "Understanding and implementing supervised learning algorithms"
+        },
+        {
+          "week": 3,
+          "topic": "Unsupervised Learning",
+          "content": "Exploring unsupervised learning algorithms and clustering techniques"
+        },
+        {
+          "week": 4,
+          "topic": "Model Evaluation and Validation",
+          "content": "Methods for evaluating and validating machine learning models"
+        },
+        {
+          "week": 5,
+          "topic": "Feature Engineering",
+          "content": "Techniques for selecting and transforming features in machine learning"
+        },
+        {
+          "week": 6,
+          "topic": "Model Selection and Hyperparameter Tuning",
+          "content": "Optimizing machine learning models through parameter tuning"
+        },
+        {
+          "week": 7,
+          "topic": "Deep Learning",
+          "content": "Introduction to deep learning and neural networks"
+        },
+        {
+          "week": 8,
+          "topic": "Natural Language Processing",
+          "content": "Text processing and analysis using machine learning"
+        }
+      ],
+      "students": [
+        {
+          "id": "55324e73-5f39-43af-8ff2-1e02e0ee806a",
+          "name": "Newuser",
+          "email": "newuser@gmail.com"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "email": "alice@example.com"
+    },
+    {
+      "id": "c57d3afe-2db7-459d-8f02-97e184176a3f",
+      "name": "Sourav",
+      "email": "sourav911@gmail.com"
+    },
+    {
+      "id": "55324e73-5f39-43af-8ff2-1e02e0ee806a",
+      "name": "Newuser",
+      "email": "newuser@gmail.com"
+    }
+  ]
+}
