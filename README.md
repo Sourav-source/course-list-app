@@ -17,6 +17,8 @@ change directory to client folder => Install packages `npm install` , Run comman
 
 Resources Used =>
 
+https://reactrouter.com/en/main (React navigation library)
+
 https://react-icons.github.io (Icons Library)
 
 https://daisyui.com (Ui components using tailwind classes)
